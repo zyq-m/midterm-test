@@ -1,7 +1,7 @@
 <p align="center">
-    <img  src="https://media.tenor.com/kHcmsxlKHEAAAAAM/rock-one-eyebrow-raised-rock-staring.gif"/>
+    <img style="border-radius: 999px; border: 3px solid white;" src="https://media.tenor.com/kHcmsxlKHEAAAAAM/rock-one-eyebrow-raised-rock-staring.gif"/>
 </p>
 
-<h2 align="center">Cari apa haa?</h2>
+<p align="center" style="font-size: 2rem; font-weight: bold;">Cari apa haa?</p>
 
 > Check folder. Goodluck
